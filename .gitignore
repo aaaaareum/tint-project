@@ -36,5 +36,5 @@ out/
 ### VS Code ###
 .vscode/
 
-### 추가 ###
+### 추가 ### - application.yml는 무시하겠다는 의미!! 민감하니까!! 해킹당하면 안되니까!!
 application.yml
